@@ -50,7 +50,7 @@ The records are arranged on 9 classes of questions, they are classified accordin
    
 ### What are the distributions about `Data_Values` for this `QuestionsIDs`? 
 <p align="center">
-  <img src="img_examples/distributions.png">
+  <img src="img_examples/distribuitions.png">
 </p>  
 By note the histograms about each questionID, probably data follows a normal distribution curve. To reject the hypothese h0= the distribuition are normal was applied the hypothese test of Shapiro-Wilk for mains questions Q036, Q037, Q046, Q018 e Q019. The results are:
 <p align="center">
@@ -77,6 +77,29 @@ To answer this question, was consider a random sample of the two class with 1600
 The Pearson Correlation to this case are next to zero. (-0.007184474663715776). Therefore, this data don’t show a correlation with the %non exercise with % obesity. 
 
 ### What are the 10 regions that have the highest rates of non-exercise practitioners?
+<p align="center">
+  <img src="img_examples/top1_no_exercise.png">
+</p> 
+The higher % of non exercise are with Puerto Rico with 35% in 2021.
+#### About years rate evolution obesity Puerto Rico.
+<p align="center">
+  <img src="img_examples/evolution_pr.png">
+</p> 
+We can observe that 2020 to 2021 have a notable positive increase in the rate of change of % obesity, 12% between this period.
+
+### What are the  growth rate of % obesity by each year_ref ?
+<p align="center">
+  <img src="img_examples/top_10_rate.png">
+</p> 
+<p align="center">
+  <img src="img_examples/top_10_rates_boesity.png">
+</p> 
+
+## Some Conclusions
+In summary on the exploratory analysis of these data, we can see that there is no correlation between the state of not exercising and weight gain, which most likely indicates that obesity is not only linked to energy expenditure but also to other factors such as the eating process, routine activities and the biological characteristics of each individual.  
+We can see that the data express an increase in the obesity rate over time, in other words the % of obesity in relation to these data indicates an upward trend. The identification of these trends can help in taking public health measures as an attempt to reverse the situation and/or obtain a point of stability.  
+Assessing the growth rate is a measure that can indicate the strength of that growth.  
+As the possibilities for this work are very vast, this analysis was restricted only to looking at obesity issues with the location and what their growth rates are. This work is not intended to raise plans or indicate suggestions about any social or political system, it is the presentation of some indications that the data brought.
 
 
 
