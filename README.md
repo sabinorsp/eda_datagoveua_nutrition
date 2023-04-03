@@ -78,7 +78,7 @@ The Pearson Correlation to this case are next to zero. (-0.007184474663715776). 
 
 ### What are the 10 regions that have the highest rates of non-exercise practitioners?
 <p align="center">
-  <img src="img_examples/top1_no_exercise.png">
+  <img src="img_examples/top10_no_exercise.png">
 </p> 
 The higher % of non exercise are with Puerto Rico with 35% in 2021.
 #### About years rate evolution obesity Puerto Rico.
