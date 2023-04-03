@@ -50,7 +50,7 @@ The records are arranged on 9 classes of questions, they are classified accordin
    
 ### What are the distributions about `Data_Values` for this `QuestionsIDs`? 
 <p align="center">
-  <img src="img_examples/distribuitions.png">
+  <img src="img_examples/distribuitons.png">
 </p>  
 By note the histograms about each questionID, probably data follows a normal distribution curve. To reject the hypothese h0= the distribuition are normal was applied the hypothese test of Shapiro-Wilk for mains questions Q036, Q037, Q046, Q018 e Q019. The results are:
 <p align="center">
